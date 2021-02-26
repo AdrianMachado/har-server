@@ -14,7 +14,7 @@ setuptools.setup(
     author_email='daveshawley+harserver@gmail.com',
     packages=['harserver'],
     install_requires=[
-        'aiohttp==3.4.4',
+        'aiohttp==3.7.4',
         'yarl==1.3.0',
     ],
     entry_points={
