@@ -91,7 +91,7 @@ on port 32443 with the registered response::
 .. _Jan Odvarko: http://www.softwareishard.com/blog/about/
 .. _KongHQ: https://konghq.com/
 .. _Mashape: https://en.wikipedia.org/wiki/Mashape
-.. _mockbin: https://mockbin.com/
+.. _mockbin: https://mockbin.io/
 .. _W3C: https://w3c.github.io/web-performance/specs/HAR/Overview.html
 
 .. |build| image:: https://circleci.com/gh/dave-shawley/har-server/tree/master.svg?style=svg
